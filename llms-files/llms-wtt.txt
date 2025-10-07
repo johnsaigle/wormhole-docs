@@ -12400,7 +12400,6 @@ categories: Reference
 
 <!-- The content in this file is auto-generated. Do not modify this file directly. Please see the README.md in the wormhole-mkdocs/scripts directory to learn how to update this page. -->
 <!--CORE_ADDRESS-->
-
 === "Mainnet"
 
     | Ethereum | 0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B |
@@ -12496,7 +12495,6 @@ categories: Reference
 
 <!-- The content in this file is auto-generated. Do not modify this file directly. Please see the README.md in the wormhole-mkdocs/scripts directory to learn how to update this page. -->
 <!--WTT_ADDRESS-->
-
 === "Mainnet"
 
     | Ethereum | 0x3ee18B2214AFF97000D974cf647E7C347E8fa585 |
@@ -12579,7 +12577,6 @@ categories: Reference
 
 <!-- The content in this file is auto-generated. Do not modify this file directly. Please see the README.md in the wormhole-mkdocs/scripts directory to learn how to update this page. -->
 <!--RELAYER_BRIDGE_ADDRESS-->
-
 === "Mainnet"
 
     | Ethereum | 0x27428DD2d3DD32A4D7f7C497eAaa23130d894911 |
@@ -12634,7 +12631,6 @@ categories: Reference
 
 <!-- The content in this file is auto-generated. Do not modify this file directly. Please see the README.md in the wormhole-mkdocs/scripts directory to learn how to update this page. -->
 <!--CCTP_ADDRESS-->
-
 === "Mainnet"
 
     | Ethereum | 0xAaDA05BD399372f0b0463744C09113c137636f6a |
@@ -12651,11 +12647,6 @@ categories: Reference
 | Avalanche | 0x58f4c17449c90665891c42e14d34aae7a26a472e |
 | Base Sepolia | 0x2703483B1a5a7c577e8680de9Df8Be03c6f30e3c |
 | Optimism Sepolia | 0x2703483B1a5a7c577e8680de9Df8Be03c6f30e3c |
-
-=== "Devnet"
-
-    N/A
-  
 <!--CCTP_ADDRESS-->
 
 ## Settlement Token Router
@@ -12672,7 +12663,6 @@ categories: Reference
 
 <!-- The content in this file is auto-generated. Do not modify this file directly. Please see the README.md in the wormhole-mkdocs/scripts directory to learn how to update this page. -->
 <!--EXECUTOR_ADDRESS-->
-
 === "Mainnet"
 
     | Ethereum | 0x84EEe8dBa37C36947397E1E11251cA9A06Fc6F8a |
@@ -12717,11 +12707,6 @@ categories: Reference
 | Seievm | 0x25f1c923Fb7A5aEFA5F0A2b419fC70f2368e66e5 |
 | Sui | 0x4000cfe2955d8355b3d3cf186f854fea9f787a457257056926fde1ec977670eb |
 | XRPL-EVM | 0x4d9525D94D275dEB495b7C8840b154Ae04cfaC2A |
-
-=== "Devnet"
-
-    N/A
-  
 <!--EXECUTOR_ADDRESS-->
     
 ## Guardian Governance
