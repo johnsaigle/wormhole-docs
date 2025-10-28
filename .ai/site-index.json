@@ -1,5 +1,112 @@
 [
   {
+    "id": ".venv-lib-python3.12-site-packages-mkdocs_macros-macros_info",
+    "title": ".venv-lib-python3.12-site-packages-mkdocs_macros-macros_info",
+    "slug": ".venv-lib-python3.12-site-packages-mkdocs_macros-macros_info",
+    "categories": [
+      "Uncategorized"
+    ],
+    "raw_md_url": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/.venv-lib-python3.12-site-packages-mkdocs_macros-macros_info.md",
+    "html_url": "https://wormhole.com/docs/.venv/lib/python3.12/site-packages/mkdocs_macros/macros_info/",
+    "preview": "{# Template for the macro_info() command (C) Laurent Franceschetti 2019 #}",
+    "outline": [
+      {
+        "depth": 2,
+        "title": "Macros Plugin Environment",
+        "anchor": "macros-plugin-environment"
+      },
+      {
+        "depth": 3,
+        "title": "General List",
+        "anchor": "general-list"
+      },
+      {
+        "depth": 3,
+        "title": "Config Information",
+        "anchor": "config-information"
+      },
+      {
+        "depth": 3,
+        "title": "Macros",
+        "anchor": "macros"
+      },
+      {
+        "depth": 3,
+        "title": "Git Information",
+        "anchor": "git-information"
+      },
+      {
+        "depth": 3,
+        "title": "Page Attributes",
+        "anchor": "page-attributes"
+      },
+      {
+        "depth": 3,
+        "title": "Plugin Filters",
+        "anchor": "plugin-filters"
+      },
+      {
+        "depth": 3,
+        "title": "Builtin Jinja2 Filters",
+        "anchor": "builtin-jinja2-filters"
+      }
+    ],
+    "stats": {
+      "chars": 1603,
+      "words": 211,
+      "headings": 8,
+      "estimated_token_count_total": 413
+    },
+    "hash": "sha256:7cb9bc976138f64786ab20297541bf16c79bd882042bc7f14b84cbac2b043730",
+    "token_estimator": "heuristic-v1"
+  },
+  {
+    "id": ".venv-lib-python3.12-site-packages-nltk-3.9.1.dist-info-authors",
+    "title": ".venv-lib-python3.12-site-packages-nltk-3.9.1.dist-info-authors",
+    "slug": ".venv-lib-python3.12-site-packages-nltk-3.9.1.dist-info-authors",
+    "categories": [
+      "Uncategorized"
+    ],
+    "raw_md_url": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/.venv-lib-python3.12-site-packages-nltk-3.9.1.dist-info-authors.md",
+    "html_url": "https://wormhole.com/docs/.venv/lib/python3.12/site-packages/nltk-3.9.1.dist-info/AUTHORS/",
+    "preview": "No description available.",
+    "outline": [
+      {
+        "depth": 2,
+        "title": "Original Authors",
+        "anchor": "original-authors"
+      },
+      {
+        "depth": 2,
+        "title": "Contributors",
+        "anchor": "contributors"
+      },
+      {
+        "depth": 2,
+        "title": "Others whose work we've taken and included in NLTK, but who didn't directly contribute it:",
+        "anchor": "others-whose-work-weve-taken-and-included-in-nltk-but-who-didnt-directly-contribute-it"
+      },
+      {
+        "depth": 3,
+        "title": "Contributors to the Porter Stemmer",
+        "anchor": "contributors-to-the-porter-stemmer"
+      },
+      {
+        "depth": 3,
+        "title": "Authors of snowball arabic stemmer algorithm",
+        "anchor": "authors-of-snowball-arabic-stemmer-algorithm"
+      }
+    ],
+    "stats": {
+      "chars": 7603,
+      "words": 969,
+      "headings": 5,
+      "estimated_token_count_total": 1813
+    },
+    "hash": "sha256:f13041f9a2b9951a58ba2a092e7327152b42867d1849e8bb8d36b663d72f7824",
+    "token_estimator": "heuristic-v1"
+  },
+  {
     "id": "ai-resources-ai-resources",
     "title": "AI Resources",
     "slug": "ai-resources-ai-resources",
@@ -1106,12 +1213,12 @@
       }
     ],
     "stats": {
-      "chars": 4947,
-      "words": 713,
+      "chars": 4938,
+      "words": 710,
       "headings": 4,
-      "estimated_token_count_total": 709
+      "estimated_token_count_total": 710
     },
-    "hash": "sha256:e1a8018444982a05a830a88c8fb3065a8e2f596e1762b32908603f964f81db85",
+    "hash": "sha256:07992c20ec038458a50bbb698bf53addc5b603f80a7c292e2c3e2fe501ab69ff",
     "token_estimator": "heuristic-v1"
   },
   {
