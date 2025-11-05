@@ -6,7 +6,7 @@
 This directory lists URLs for raw Markdown pages that complement the rendered pages on the documentation site. Use these Markdown files to retain semantic context when prompting models while avoiding passing HTML elements.
 
 ## Metadata
-- Documentation pages: 125
+- Documentation pages: 126
 - Categories: 19
 
 ## Docs
@@ -124,6 +124,7 @@ Docs: Queries
 - [Queries Overview](https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-queries-overview.md): Learn how Wormhole Queries enable smart contracts to fetch real-time, Guardian-verified data across multiple blockchains.
 - [Queries Supported Methods](https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-queries-reference-supported-methods.md): Retrieve multichain data via historical timestamp queries, finality confirmation queries, and Solana lookups.
 - [Queries Supported Networks](https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-queries-reference-supported-networks.md): Reference table of chains supported by Wormhole Queries, including method support, finality, and expected historical data availability.
+- [Live Crypto Price Widget](https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-queries-tutorials-live-crypto-prices.md): Learn how to fetch real-time crypto prices using Wormhole Queries and display them in a live widget powered by secure and verified Witnet data feeds.
 
 Docs: Transfer
 - [Get Started with CCTP](https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-cctp-bridge-get-started.md): Transfer USDC across chains using Wormhole's CCTP integration with the TypeScript SDK, including setup, attestation, and redemption steps.

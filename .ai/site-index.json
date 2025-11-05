@@ -3560,6 +3560,97 @@
     "token_estimator": "heuristic-v1"
   },
   {
+    "id": "products-queries-tutorials-live-crypto-prices",
+    "title": "Live Crypto Price Widget",
+    "slug": "products-queries-tutorials-live-crypto-prices",
+    "categories": [
+      "Queries"
+    ],
+    "raw_md_url": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-queries-tutorials-live-crypto-prices.md",
+    "html_url": "https://wormhole.com/docs/products/queries/tutorials/live-crypto-prices/",
+    "preview": ":simple-github: [Source code on GitHub](https://github.com/wormhole-foundation/e2e-tutorial-live-crypto-prices){target=\\_blank}",
+    "outline": [
+      {
+        "depth": 2,
+        "title": "Prerequisites",
+        "anchor": "prerequisites"
+      },
+      {
+        "depth": 2,
+        "title": "Project Setup",
+        "anchor": "project-setup"
+      },
+      {
+        "depth": 2,
+        "title": "Build the Server Logic",
+        "anchor": "build-the-server-logic"
+      },
+      {
+        "depth": 3,
+        "title": "Encode Witnet Call and Build the Request",
+        "anchor": "encode-witnet-call-and-build-the-request"
+      },
+      {
+        "depth": 3,
+        "title": "Send Request to the Query Proxy",
+        "anchor": "send-request-to-the-query-proxy"
+      },
+      {
+        "depth": 3,
+        "title": "Decode and Verify Response",
+        "anchor": "decode-and-verify-response"
+      },
+      {
+        "depth": 3,
+        "title": "Add Shared Types",
+        "anchor": "add-shared-types"
+      },
+      {
+        "depth": 3,
+        "title": "Add  API Route for Frontend",
+        "anchor": "add-api-route-for-frontend"
+      },
+      {
+        "depth": 2,
+        "title": "Price Widget",
+        "anchor": "price-widget"
+      },
+      {
+        "depth": 3,
+        "title": "Create Widget Component",
+        "anchor": "create-widget-component"
+      },
+      {
+        "depth": 3,
+        "title": "Add the Widget to Home Page",
+        "anchor": "add-the-widget-to-home-page"
+      },
+      {
+        "depth": 2,
+        "title": "Run the App",
+        "anchor": "run-the-app"
+      },
+      {
+        "depth": 2,
+        "title": "Resources",
+        "anchor": "resources"
+      },
+      {
+        "depth": 2,
+        "title": "Conclusion",
+        "anchor": "conclusion"
+      }
+    ],
+    "stats": {
+      "chars": 20515,
+      "words": 2690,
+      "headings": 14,
+      "estimated_token_count_total": 4569
+    },
+    "hash": "sha256:a61ee01698bf986ef7b21237e2fc5513e69f63665edbc0edb87920a0b4e3c2fd",
+    "token_estimator": "heuristic-v1"
+  },
+  {
     "id": "products-reference-chain-ids",
     "title": "Chain IDs",
     "slug": "products-reference-chain-ids",
