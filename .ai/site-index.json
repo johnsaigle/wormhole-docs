@@ -1246,6 +1246,84 @@
     "token_estimator": "heuristic-v1"
   },
   {
+    "id": "products-messaging-guides-executor-ntt-executor",
+    "title": "Integrate Native Token Transfers with Executor",
+    "slug": "products-messaging-guides-executor-ntt-executor",
+    "categories": [
+      "NTT",
+      "Transfer",
+      "Executor"
+    ],
+    "raw_md_url": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-messaging-guides-executor-ntt-executor.md",
+    "html_url": "https://wormhole.com/docs/products/messaging/guides/executor/ntt-executor/",
+    "preview": "The [Executor](/docs/products/messaging/concepts/executor-overview/){target=\\_blank} extends [Native Token Transfers (NTT)](/docs/products/token-transfers/native-token-transfers/overview/){target=\\_blank} by enabling permissionless, quote-based relaying and cross-chain execution. Instead of relying on a dedicated relayer, applications can now request a signed quote from an open network of relay providers to automatically complete token redemptions on supported destination chains.",
+    "outline": [
+      {
+        "depth": 2,
+        "title": "Prerequisites",
+        "anchor": "prerequisites"
+      },
+      {
+        "depth": 2,
+        "title": "References",
+        "anchor": "references"
+      },
+      {
+        "depth": 2,
+        "title": "Generate Relay Instructions",
+        "anchor": "generate-relay-instructions"
+      },
+      {
+        "depth": 3,
+        "title": "EVM",
+        "anchor": "evm"
+      },
+      {
+        "depth": 3,
+        "title": "SVM",
+        "anchor": "svm"
+      },
+      {
+        "depth": 2,
+        "title": "Request a Signed Quote",
+        "anchor": "request-a-signed-quote"
+      },
+      {
+        "depth": 2,
+        "title": "Call Sending Contract",
+        "anchor": "call-sending-contract"
+      },
+      {
+        "depth": 3,
+        "title": "EVM",
+        "anchor": "evm-2"
+      },
+      {
+        "depth": 3,
+        "title": "SVM",
+        "anchor": "svm-2"
+      },
+      {
+        "depth": 2,
+        "title": "Check the Transaction Status",
+        "anchor": "check-the-transaction-status"
+      },
+      {
+        "depth": 2,
+        "title": "Conclusion",
+        "anchor": "conclusion"
+      }
+    ],
+    "stats": {
+      "chars": 18116,
+      "words": 2101,
+      "headings": 11,
+      "estimated_token_count_total": 3553
+    },
+    "hash": "sha256:a9cd7d8a02c5a532a2f0a4976479cfa5bf08ffd5c4f7102d4f2ab8cf19c4edb9",
+    "token_estimator": "heuristic-v1"
+  },
+  {
     "id": "products-messaging-guides-solana-shims-sol-emission",
     "title": "Solana Message Emission via Shim",
     "slug": "products-messaging-guides-solana-shims-sol-emission",
@@ -4943,6 +5021,64 @@
       "estimated_token_count_total": 0
     },
     "hash": "sha256:6cc84b8c7d829c88085d04b08d901b02f97ee00e066b6f3680f27f83b7ef7d03",
+    "token_estimator": "heuristic-v1"
+  },
+  {
+    "id": "products-token-transfers-native-token-transfers-ntt-executor",
+    "title": "Integrate Native Token Transfers with Executor",
+    "slug": "products-token-transfers-native-token-transfers-ntt-executor",
+    "categories": [
+      "NTT",
+      "Transfer",
+      "Executor"
+    ],
+    "raw_md_url": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-docs/main/.ai/pages/products-token-transfers-native-token-transfers-ntt-executor.md",
+    "html_url": "https://wormhole.com/docs/products/token-transfers/native-token-transfers/ntt-executor/",
+    "preview": "The [Executor](/docs/products/messaging/concepts/executor-overview/){target=\\_blank} extends [Native Token Transfers (NTT)](/docs/products/token-transfers/native-token-transfers/overview/){target=\\_blank} by enabling permissionless, quote-based relaying and cross-chain execution. Instead of relying on a dedicated relayer, applications can now request a signed quote from an open network of relay providers to automatically complete token redemptions on supported destination chains.",
+    "outline": [
+      {
+        "depth": 2,
+        "title": "Prerequisites",
+        "anchor": "prerequisites"
+      },
+      {
+        "depth": 2,
+        "title": "References",
+        "anchor": "references"
+      },
+      {
+        "depth": 2,
+        "title": "Generate relay instructions",
+        "anchor": "generate-relay-instructions"
+      },
+      {
+        "depth": 2,
+        "title": "Request a SignedQuote",
+        "anchor": "request-a-signedquote"
+      },
+      {
+        "depth": 2,
+        "title": "Call your sending contract",
+        "anchor": "call-your-sending-contract"
+      },
+      {
+        "depth": 2,
+        "title": "Status the transaction",
+        "anchor": "status-the-transaction"
+      },
+      {
+        "depth": 2,
+        "title": "Conclusion",
+        "anchor": "conclusion"
+      }
+    ],
+    "stats": {
+      "chars": 17111,
+      "words": 1951,
+      "headings": 7,
+      "estimated_token_count_total": 3330
+    },
+    "hash": "sha256:8ec7af7165b01c8fa60fd972424cfd7ebfb2d1e14f3487028f396ec064adf160",
     "token_estimator": "heuristic-v1"
   },
   {
