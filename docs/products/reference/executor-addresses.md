@@ -25,3 +25,15 @@ categories: Reference
 ## WTT Executor With Referrer
 
 --8<-- 'text/products/reference/contract-addresses/wtt-executor-with-referrer.md'
+
+## On-Chain Quoter
+
+--8<-- 'text/products/reference/contract-addresses/quoter-public-keys.md'
+
+### Wormhole Labs Quoter Implementation
+
+--8<-- 'text/products/reference/contract-addresses/wh-quoter-implementation.md'
+
+### Quoter Router
+
+--8<-- 'text/products/reference/contract-addresses/quoter-router.md'
