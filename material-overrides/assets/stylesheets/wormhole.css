@@ -75,7 +75,7 @@
 
   --md-typeset-table-color: var(--grey-80);
   --table-header-bg-color: var(--grey-90);
-  --md-typeset-table-color--light: var(--plum-transparent-30);
+  --md-typeset-table-color--light: var(--plum-transparent-10);
 
   --md-admonition-bg-color: var(--grey-95);
   --md-admonition-fg-color: var(--dark);
@@ -144,7 +144,7 @@
 
   --md-typeset-table-color: var(--grey-17);
   --table-header-bg-color: var(--grey-15);
-  --md-typeset-table-color--light: var(--plum-transparent-15);
+  --md-typeset-table-color--light: var(--plum-transparent-10);
 
   --md-admonition-bg-color: var(--grey-10);
   --md-admonition-fg-color: var(--light);
@@ -1292,7 +1292,7 @@ div.mermaid {
   }
 }
 
-html .md-footer-meta.md-typeset .llms button.md-clipboard--inline {
+html .md-footer-meta.md-typeset .llms button.ai-file-actions-copy {
   display: flex;
   align-items: center;
   gap: 1em;
@@ -1301,9 +1301,19 @@ html .md-footer-meta.md-typeset .llms button.md-clipboard--inline {
   font-weight: 400;
   font-size: 1.1em;
   margin-top: 0.4em;
+  padding: 1em 1.5em;
+  border: var(--border);
+  border-radius: var(--border-radius);
+  white-space: nowrap;
 }
 
-html .md-footer-meta.md-typeset .llms button.md-clipboard--inline:hover {
+html .md-footer-meta.md-typeset .llms button.ai-file-actions-copy svg {
+  width: 1rem;
+  height: 1rem;
+  flex-shrink: 0;
+}
+
+html .md-footer-meta.md-typeset .llms button.ai-file-actions-copy:hover {
   background-color: var(--md-default-fg-color--lightest);
 }
 
