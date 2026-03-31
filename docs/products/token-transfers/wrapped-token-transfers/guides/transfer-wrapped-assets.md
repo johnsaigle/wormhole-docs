@@ -209,3 +209,31 @@ Congratulations! You've now used WTT to transfer wrapped assets using the Wormho
     [:custom-arrow: See Interfaces](https://github.com/wormhole-foundation/wormhole-sdk-ts/blob/main/core/definitions/src/protocols/tokenBridge/tokenBridge.ts){target=\_blank}
 
 </div>
+
+
+## Recovering Stuck Transfers
+
+If your transfer appears stuck or failed to complete automatically, you can recover it manually using the transaction hash from the source chain.
+
+### Using the Recovery Script
+
+1. **Get your source transaction hash**: This is the transaction ID from when you initiated the transfer
+
+2. **Clone the recovery script**:
+
+    ```bash
+    git clone https://github.com/wormhole-foundation/demo-basic-ts-sdk
+    cd demo-basic-ts-sdk
+    ```
+
+3. **Run the recovery**:
+
+    ```bash
+    # Edit src/tx-recover.ts and set recoverTxid to your transaction hash
+    npm run transfer:recover
+    ```
+
+### When Recovery Might Not Work
+
+- **Wrong destination address**: If tokens were sent to a contract that can't release them
+- **Finality not reached**: Wait up to 20 minutes for Ethereum finality before attempting recovery
